@@ -96,11 +96,71 @@ This experience strengthened my confidence in making and defending safety-critic
 
 ---
 
-## Additional case studies
-Further case studies will be added to demonstrate installations across different wall types, mounting constraints, and load conditions.
+## Case Study 2 – Large-Format (100-Inch) Display Installation on Feature Wall
 
-## Evidence I will add
-- Photos with sensitive details removed
-- Before/after
-- Tools and fixings used (general, not brand-critical)
-- Safety checks and handover steps
+### Context
+Installation of a 100-inch television on a residential feature wall incorporating vertical cladding. The client required a centred, flush finish with all cabling concealed through the wall and cladding for a clean architectural outcome.
+
+Due to the size and mass of the display, the installation required coordinated handling by multiple technicians.
+
+---
+
+### System overview
+- Display size: 100-inch  
+- Mount type: Heavy-duty fixed wall mount  
+- Wall construction: Stud wall with decorative cladding  
+- Cable management: In-wall and behind-cladding concealment  
+
+---
+
+### Constraints and risks
+- Large display size requiring controlled manual handling  
+- Feature wall finish requiring high positional accuracy  
+- Limited tolerance for error due to cladding alignment  
+- Risk of wall or display damage during lifting and mounting  
+- Requirement to route power and signal cables without visible outlets  
+
+---
+
+### Engineering assessment
+Prior to installation, the wall structure and stud locations were identified to ensure adequate load support. The mounting height and horizontal alignment were planned to maintain symmetry with the feature wall cladding.
+
+Given the size of the display, a multi-person lift was assessed as necessary to:
+- Maintain control of the load during positioning  
+- Avoid point loading on the mount or wall during engagement  
+- Reduce risk of injury or damage  
+
+Cable routing paths were identified to allow concealment behind the cladding without compromising wall integrity or final appearance.
+
+---
+
+### Actions taken
+- Coordinated a three-person lift with clear role allocation and communication  
+- Installed and levelled the mounting bracket relative to cladding lines  
+- Routed power and signal cabling through the wall cavity and behind the cladding  
+- Carefully engaged the display onto the mount while maintaining alignment  
+- Verified level, stability, and finish before final handover  
+
+![100-inch feature wall – final installation](images/100-inch-feature-wall-final.jpg)
+
+*Completed installation of a 100-inch display centred on a feature wall, with all cabling concealed for a clean architectural finish.*
+
+---
+
+### Outcome
+- Secure installation with accurate alignment to the feature wall geometry  
+- All cabling fully concealed with no visible surface wiring  
+- Installation completed without damage to the wall finish or display  
+- Client satisfied with both functionality and visual outcome  
+
+---
+
+### Reflection
+This installation highlighted the importance of:
+- Clear communication and role definition during multi-person handling tasks  
+- Planning alignment and tolerances when working with architectural finishes  
+- Sequencing tasks correctly to avoid rework or surface damage  
+- Treating large-format installations as controlled engineering operations rather than routine installs  
+
+The job reinforced how preparation and teamwork directly influence both safety and quality outcomes.
+

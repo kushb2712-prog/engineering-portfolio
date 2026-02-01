@@ -1,7 +1,7 @@
 # AV Installation Case Studies (JB Hi-Fi Installs)
 
 ## Context
-Delivered 2500+ residential and commercial AV installations with a focus on safe mounting, quality workmanship, and client handover. :contentReference[oaicite:1]{index=1}
+Delivered 2500+ residential and commercial AV installations with a focus on safe mounting, quality workmanship, and client handover.
 
 ## What this demonstrates
 - Practical problem solving on real sites
@@ -9,7 +9,7 @@ Delivered 2500+ residential and commercial AV installations with a focus on safe
 - Diagnosing issues with unknown constraints
 - Clear client communication and professional handover
 
-## Case study template (I will add multiple)
+
 # AV Installation Case Studies – JB Hi-Fi Installs
 
 This section presents selected AV installation case studies demonstrating practical engineering judgement, safety awareness, and structured problem solving in real-world environments.
@@ -34,7 +34,7 @@ The installation was carried out on an active school site with multiple stakehol
 ---
 
 ### Constraints and risks
-- Wall construction consisted of gyprock/plasterboard over metal stud framing, with a pinboard layer installed over the wall surface  
+- Wall construction consisted of Gyprock/plasterboard over metal stud framing, with a pinboard layer installed over the wall surface  
 - Displays were required to be centred within the pinboard area for aesthetic and practical reasons  
 - Only a single metal stud was available within the mounting zone  
 - Remaining fixings would rely on hollow wall anchors  

@@ -20,26 +20,27 @@ I am seeking internship opportunities in Mining, Energy, Resources, or Defence.
 ### University projects
 - **Gearbox Design and Analysis**  
   Two-stage spur gear reduction gearbox design, stress and fatigue checks, and professional CAD drawings.  
-  → `projects/gearbox-design`
+  → [view project] (projects/gearbox-design)
 
 - **Sustainable Artefact Storage Design (EWB Challenge)**  
   Low-cost, sustainable design based on stakeholder needs and constraints.  
-  → `projects/ewb-storage-design`
+  → [view project] (projects/ewb-storage-design)
 
 ### Professional experience case studies
 - **Residential and Commercial AV Installation Case Studies (JB Hi-Fi Installs)**  
   Wall types, fixing choices, load considerations, on-site fault diagnosis, and safe handover.  
-  → `projects/av-install-case-studies`
+  → [view project] (projects/av-install-case-studies)
 
 ### Independent engineering projects
 - **At-home engineering builds and tools (in progress)**  
   Practical mini-projects designed to be buildable, measurable, and clearly documented.  
-  → `projects/independent-projects`
+  → [View project] (projects/independent-projects)
 
 ---
 
 ## Resume
-- **Resume (PDF)** → `Resume.pdf`
+- [Download Resume (PDF)](Resume.pdf)
+
 
 ---
 
